@@ -1,6 +1,6 @@
 # SaaS_Customer_Churn_Analysis_SQLite
  
-The objective of this project is to assist a streaming video startup in assessing its user churn rate. The project aims to address the following inquiries related to churn:
+The objective of this project is to assist a streaming video startup (Software as a service) in assessing its user churn rate. The project aims to address the following inquiries related to churn:
 
 1. **Getting familiar with the operation of the Company:**
    - What is the total duration of the company's operational activities?
